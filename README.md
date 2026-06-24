@@ -1,5 +1,6 @@
 # roadmap-docker-basic-dockerfile
-Achieving the docker roadmap task for beginners js for practice https://roadmap.sh/projects/basic-dockerfile
+https://roadmap.sh/projects/basic-dockerfile
+Achieving the docker roadmap task for beginners js for practice 
 
 
 ## Usage
